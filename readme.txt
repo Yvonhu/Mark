@@ -23,6 +23,4 @@ what's up?
 version : dev1.0 
 >>>>>>> dev
  
-dev LV2
-
-feature LV1
+master LV1 yooooooo~

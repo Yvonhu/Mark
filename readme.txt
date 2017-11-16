@@ -10,4 +10,8 @@ Fire	Work.
 
 halo
 
-is's hard 2 change.
+<<<<<<< HEAD
+shutUP.
+=======
+shutup.
+>>>>>>> dev

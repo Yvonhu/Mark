@@ -3,7 +3,7 @@ package character;
 public class ADhero extends Hero {
 	
       public ADhero(String name, int hp, int mp) {
-		super(name, hp, mp);
+		super(name, hp, mp);// »¹Ã»¸ãÃ÷°×¡£
 		// TODO Auto-generated constructor stub
 	}
 
